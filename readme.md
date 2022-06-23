@@ -5,5 +5,5 @@
 Apara rodar esse projeto na sua máquina, por favor gigite:
 
 ```
-npm install
+node app.js
 ```
